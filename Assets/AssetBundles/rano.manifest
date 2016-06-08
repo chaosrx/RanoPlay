@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 1527287638
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2337d53fe41e193f139e27e4f9252acc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c15a8ef5f72b9f2c27a527a2d30b7e3d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f183272568e6f94382e3b59c0de76cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7338c13e8f0b4173bd506c6aa80f0e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1614893314e72af42bf28279555e5a09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e011443d8988104fb4b8661bc776816, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c6f46a34616ba94da300e6113857f28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47dc8cf31fc9a874991a0f0c0710de20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b58a873426dfbf040934ea3a85f4ff71, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 96b61ea5aff07d949af23d3ae3b82690, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 313f86d54b6c6b74baf56a35e75e8914, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48c4aa17f89b11d4596f9f9d5dc89489, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 55c3fd27de9c2b1498a425dfd49d9091, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 906c733aaf963fc49a5cfded4f96428b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16d9053a75362054598d72e1d8988bc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 303b505ceb53f764dbdfa62c6f482b62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4105690d19015ef44a8b9f36351daf54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2858509d2f3b86445b5f5c146be1bf44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3059aafd555a5554498edf9ef8d1850d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9856eecfcd6b8df42ac2ebd73cc36dff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/ranoplay_play/Textures/SpriteUI/SystemButtonSS.png
+- Assets/ranoplay_play/Textures/SpriteUI/white.png
+- Assets/ranoplay_play/Textures/TextureUI/EmptyThumbnail.jpg
+- Assets/ranoplay_play/Prefabs/UI/CgGalleryItem.prefab
+- Assets/ranoplay_play/Textures/SpriteUI/transitionFadeBg.png
+- Assets/ranoplay_play/Textures/SpriteUI/SystemButton.png
+- Assets/ranoplay_play/ScriptableObject/CustomProjectSetting.asset
+- Assets/ranoplay_play/Textures/SpriteUI/CheckBox.png
+- Assets/ranoplay_play/Prefabs/UI/CategoryButton.prefab
+- Assets/ranoplay_play/Prefabs/UI/SceneGalleryItem.prefab
+- Assets/ranoplay_play/Textures/SpriteUI/CheckMark.png
+- Assets/ranoplay_play/Prefabs/UI/CarouselButton.prefab
+- Assets/ranoplay_play/ScriptableObject/LanguageManager.asset
+- Assets/ranoplay_play/Textures/SpriteUI/Indicator.png
+- Assets/ranoplay_play/Textures/SpriteUI/ShiftArrow.png
+- Assets/ranoplay_play/Textures/SpriteUI/MessageWindow.png
+- Assets/ranoplay_play/Prefabs/UI/SaveLoadItem.prefab
+- Assets/ranoplay_play/Textures/SpriteUI/CloseIcon.png
+- Assets/ranoplay_play/Textures/SpriteUI/AllowR.png
+- Assets/ranoplay_play/Textures/SpriteUI/CarouselButton.png
+- Assets/ranoplay_play/ScriptableObject/TextSettings.asset
+- Assets/ranoplay_play/Prefabs/UI/SoundRoomItem.prefab
+- Assets/ranoplay_play/Textures/TextureUI/AutoSave.png
+- Assets/ranoplay_play/Textures/SpriteUI/bar.png
+- Assets/ranoplay_play/ranoplay_play.project.asset
+- Assets/ranoplay_play/Prefabs/UI/BaclLogItem.prefab
+- Assets/ranoplay_play/Prefabs/UI/SelectionItem.prefab
+- Assets/ranoplay_play/Audio/UI/mouse_hover_1.wav
+- Assets/ranoplay_play/Textures/SpriteUI/configBg.png
+- Assets/ranoplay_play/Textures/SpriteUI/RadioButtonCheck.png
+- Assets/ranoplay_play/Textures/SpriteUI/SoundIcon.png
+- Assets/ranoplay_play/ScriptableObject/Node2DSortData.asset
+- Assets/ranoplay_play/Textures/SpriteUI/window_savedata.png
+- Assets/ranoplay_play/Textures/SpriteUI/BarBg.png
+- Assets/ranoplay_play/ranoplay_play.scenarios.asset
+- Assets/ranoplay_play/Textures/SpriteBG/title.png
+- Assets/ranoplay_play/Textures/SpriteBG/gallery.png
+- Assets/ranoplay_play/Textures/SpriteUI/ShiftArrow2.png
+- Assets/ranoplay_play/ranoplay_play.xls
+- Assets/ranoplay_play/Textures/SpriteUI/Unknown.png
+- Assets/ranoplay_play/ranoplay_play.book.asset
+- Assets/ranoplay_play/Textures/SpriteUI/SystemDialogwindow.png
+- Assets/ranoplay_play/ScriptableObject/EmojiData.asset
+- Assets/ranoplay_play/Audio/UI/mouse_click_1.wav
+- Assets/ranoplay_play/Textures/SpriteBG/save.png
+- Assets/ranoplay_play/Textures/SpriteUI/AllowUp.png
+- Assets/ranoplay_play/Textures/SpriteUI/RadioButton.png
+- Assets/ranoplay_play/Textures/SpriteUI/CgGalleryWindow.png
+Dependencies: []
