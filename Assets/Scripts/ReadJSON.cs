@@ -2,6 +2,11 @@
 using System.Collections;
 using MiniJSON;
 using System.Collections.Generic;
+using JsonFx.Json;
+using System.Xml;
+using System.Xml.Serialization;
+using System.IO;
+using System.Text;
  
 public class ReadJSON : MonoBehaviour {
  
